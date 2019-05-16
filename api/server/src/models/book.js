@@ -1,0 +1,1 @@
+//sequelize model: create--name Book--attributes title: string, price: string, description: string
